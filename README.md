@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # EvidencijaServisaApp
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.2.17.
@@ -57,3 +58,19 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 ## Additional Resources
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+=======
+# Evidencija odrzavanja i servisa automobila
+
+### Tim:
+* Luka Peric (2022/0377)
+* Zlatko Radovanovic (2022/0518)
+
+### Opis projekta:
+Hibridna mobilna aplikacija kreirana u .NET MAUI framework-u (C#) koja komunicira sa Firebase Realtime Database-om preko HTTP REST API zahteva. Aplikacija sluzi za vodjenje digitalne servisne knjizice vozila.
+
+### Implementirane CRUD operacije:
+1. **Create:** Unos novog servisa (Datum, Kilometraža, Opis, Cena).
+2. **Read:** Pregled kompletne istorije svih servisa na glavnom ekranu.
+3. **Update:** Izmena detalja unosa.
+4. **Delete:** Brisanje pogresno unesenog servisa iz baze podataka.
+>>>>>>> bb6ec7c4de5db04733e1d17c5ec6ae03ae6cb2a8
